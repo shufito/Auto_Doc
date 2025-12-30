@@ -714,7 +714,7 @@ function App() {
               </form>
             </Form>
           </div>
-          <div className="w-80 sticky top-4 self-start">
+          <div className="hidden md:block w-80 sticky top-4 self-start">
             <Card className="w-full bg-background border shadow-lg overflow-hidden py-0">
               <CardHeader
                 className="bg-primary p-4 text-primary-foreground"
